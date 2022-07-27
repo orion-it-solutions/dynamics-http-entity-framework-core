@@ -1,0 +1,12 @@
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\bin\Debug\net6.0\Dynamics.EntityFrameworkCore.deps.json
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\bin\Debug\net6.0\Dynamics.EntityFrameworkCore.dll
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\bin\Debug\net6.0\Dynamics.EntityFrameworkCore.pdb
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.AssemblyInfo.cs
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.dll
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\refint\Dynamics.EntityFrameworkCore.dll
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\Dynamics.EntityFrameworkCore.pdb
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.EntityFramework.Core\Dynamics.EntityFramework.Core\obj\Debug\net6.0\ref\Dynamics.EntityFrameworkCore.dll

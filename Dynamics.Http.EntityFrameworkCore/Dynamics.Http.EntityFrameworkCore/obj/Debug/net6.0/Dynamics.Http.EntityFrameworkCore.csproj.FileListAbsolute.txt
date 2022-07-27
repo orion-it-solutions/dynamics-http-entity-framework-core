@@ -1,0 +1,12 @@
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\bin\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.deps.json
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\bin\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.dll
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\bin\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.pdb
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.AssemblyInfo.cs
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.dll
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\refint\Dynamics.Http.EntityFrameworkCore.dll
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\Dynamics.Http.EntityFrameworkCore.pdb
+C:\Orion\Dynamics HEFC\dynamics-entity-framework-core\Dynamics.Http.EntityFrameworkCore\Dynamics.Http.EntityFrameworkCore\obj\Debug\net6.0\ref\Dynamics.Http.EntityFrameworkCore.dll
